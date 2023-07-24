@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RealEstate</string>
+        <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+        <string name="price">Price:</string>
+        <string name="description">Description</string>
+        <string name="bed_count">bed count</string>
+        <string name="bath_count">bath count</string>
+        <string name="carspace_count">car space count</string>
+        <string name="property_listings">Property Listings</string>
+        <string name="toolbar_icon">Back Icon</string>
+        <string name="exit_application">Exit Application</string>
+        <string name="are_you_sure">Are you sure you want to exit?</string>
+        <string name="yes">Yes</string>
+        <string name="no">No</string>
 </resources>
